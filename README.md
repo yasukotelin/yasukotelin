@@ -6,7 +6,7 @@
 * I love Vim and Gopher.
 * Vim colorscheme shirotelin author.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yasukotelin)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasukotelin&hide=html)
 ![yasukotelin's github stats](https://github-readme-stats.vercel.app/api?username=yasukotelin&show_icons=true&count_private=true&line_height=40)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasukotelin)](https://github.com/ryo-ma/github-profile-trophy)
